@@ -1,0 +1,36 @@
+🚀 Python Mini Projects
+
+This repository showcases two beginner-friendly yet powerful Python projects that demonstrate the versatility of Python in both logic-building and real-world automation.
+
+🔣 Fibonacci Sequence Generator
+
+📌 A simple yet elegant program that generates the Fibonacci sequence up to a user-defined number of terms.✅ Perfect for understanding recursion, iteration, and number patterns.💡 Great starting point for those exploring mathematical algorithms using Python.
+
+😣‍♂️ AI Voice Assistant
+
+🎧 A personalized Voice Assistant built with Python that listens to your voice commands and responds intelligently!
+
+🛠️ Key Features:
+
+Converts speech to text and vice versa using SpeechRecognition and pyttsx3
+
+Answers questions, opens websites, tells the time/date
+
+Can be connected to ChatGPT for advanced conversational abilities 🤖
+
+✨ This project introduces basic AI and automation concepts using Python's rich ecosystem of libraries.
+
+📂 Technologies Used:
+
+Python 🐍
+
+SpeechRecognition
+
+PyAudio
+
+pyttsx3
+
+OpenAI (for ChatGPT integration)
+
+Git & GitHub
+
